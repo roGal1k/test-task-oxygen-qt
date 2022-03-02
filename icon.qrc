@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>icon/disabled_export.png</file>
+        <file>icon/actived_export.png</file>
+        <file>icon/disabled_add.png</file>
+        <file>icon/actived_add.png</file>
+        <file>icon/plus_icon.png</file>
+        <file>icon/widget_icon.png</file>
+        <file>icon/trash.png</file>
+        <file>icon/persoanl.png</file>
+    </qresource>
+</RCC>
