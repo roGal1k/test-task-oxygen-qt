@@ -8,5 +8,11 @@
         <file>icon/widget_icon.png</file>
         <file>icon/trash.png</file>
         <file>icon/persoanl.png</file>
+        <file>icon/sort_unactived.png</file>
+        <file>icon/sort_actived.png</file>
+        <file>icon/checkbox_normal_actived.png</file>
+        <file>icon/checkbox_normal_unactived.png</file>
+        <file>icon/checkbox_hover_unactived.png</file>
+        <file>icon/checkbox_hover_actived.png</file>
     </qresource>
 </RCC>
